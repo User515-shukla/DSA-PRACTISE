@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -33,10 +34,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
