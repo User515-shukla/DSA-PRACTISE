@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0189-rotate-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
