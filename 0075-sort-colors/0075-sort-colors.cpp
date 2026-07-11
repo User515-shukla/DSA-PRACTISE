@@ -6,7 +6,9 @@ public:
         int right=nums.size()-1;
         while(mid<=right){
             if(nums[mid]==0){
-                swap(nums[left],nums[mid]);
+                int temp=nums[mid];
+                nums[mid]=nums[left];
+                nums[left]=temp;
                 left++;
                 mid++;
             }
@@ -14,7 +16,9 @@ public:
                 mid++;
             }
             else{
-                swap(nums[mid],nums[right]);
+                int temp=nums[mid];
+                nums[mid]=nums[right];
+                nums[right]=temp;
                 right--;
             }
         }
