@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2161-partition-array-according-to-given-pivot) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
