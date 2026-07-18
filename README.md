@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
