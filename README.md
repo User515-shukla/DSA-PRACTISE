@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0278-first-bad-version) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
