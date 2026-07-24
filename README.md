@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0374-guess-number-higher-or-lower) |
 ## Hash Table
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0409-longest-palindrome) |
 | [1796-second-largest-digit-in-a-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1796-second-largest-digit-in-a-string) |
 ## Math
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
