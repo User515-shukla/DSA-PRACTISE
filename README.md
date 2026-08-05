@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0905-sort-array-by-parity) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0441-arranging-coins) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0905-sort-array-by-parity) |
@@ -178,4 +182,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
