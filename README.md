@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
