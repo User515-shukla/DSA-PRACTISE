@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
@@ -213,18 +215,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
