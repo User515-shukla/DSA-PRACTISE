@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0342-power-of-four) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Number Theory
 |  |
@@ -240,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
