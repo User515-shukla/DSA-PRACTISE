@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0342-power-of-four) |
