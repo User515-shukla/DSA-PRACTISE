@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0162-find-peak-element) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0189-rotate-array) |
