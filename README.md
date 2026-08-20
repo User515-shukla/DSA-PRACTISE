@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0260-single-number-iii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0349-intersection-of-two-arrays) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Greedy
 |  |
@@ -279,4 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0048-rotate-image) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
