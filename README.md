@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0189-rotate-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0409-longest-palindrome) |
