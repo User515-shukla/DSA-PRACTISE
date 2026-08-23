@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1927-sum-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1927-sum-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1796-second-largest-digit-in-a-string) |
+| [1927-sum-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0409-longest-palindrome) |
+| [1927-sum-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
