@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2029-stone-game-ix](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1927-sum-game) |
+| [2029-stone-game-ix](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0409-longest-palindrome) |
 | [1927-sum-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1927-sum-game) |
+| [2029-stone-game-ix](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
@@ -271,12 +275,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1927-sum-game) |
+| [2029-stone-game-ix](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -286,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -310,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
