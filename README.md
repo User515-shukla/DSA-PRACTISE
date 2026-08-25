@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0441-arranging-coins) |
 | [0875-koko-eating-bananas](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0875-koko-eating-bananas) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0492-construct-the-rectangle) |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
