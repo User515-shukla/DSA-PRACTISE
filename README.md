@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0048-rotate-image) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0075-sort-colors) |
