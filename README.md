@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0492-construct-the-rectangle) |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1768-merge-strings-alternately) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0415-add-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3477-fruits-into-baskets-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3477-fruits-into-baskets-ii) |
