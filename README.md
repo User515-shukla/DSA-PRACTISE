@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0905-sort-array-by-parity) |
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0492-construct-the-rectangle) |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1927-sum-game) |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3477-fruits-into-baskets-ii) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
