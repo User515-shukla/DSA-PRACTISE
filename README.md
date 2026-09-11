@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0492-construct-the-rectangle) |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1510-stone-game-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
