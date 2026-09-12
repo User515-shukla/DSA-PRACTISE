@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0414-third-maximum-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3477-fruits-into-baskets-ii) |
