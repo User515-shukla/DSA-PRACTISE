@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
+| [0888-fair-candy-swap](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0905-sort-array-by-parity) |
 | [1140-stone-game-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0888-fair-candy-swap) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0771-jewels-and-stones) |
+| [0888-fair-candy-swap](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0888-fair-candy-swap) |
 | [1796-second-largest-digit-in-a-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1796-second-largest-digit-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2784-check-if-array-is-good) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0414-third-maximum-number) |
+| [0888-fair-candy-swap](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2089-find-target-indices-after-sorting-array) |
