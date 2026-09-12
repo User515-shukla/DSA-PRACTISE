@@ -8,8 +8,11 @@ public:
         return nums[0];
         if (nums[n - 1] != nums[n - 2]) 
         return nums[n - 1];
+         
         int left=1;
         int right= nums.size()-1;
+
+       
        
         while(left<=right){
            if(nums[left]==nums[left-1]){
