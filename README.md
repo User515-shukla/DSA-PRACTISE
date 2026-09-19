@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0075-sort-colors) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0409-longest-palindrome) |
 | [0881-boats-to-save-people](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0881-boats-to-save-people) |
 | [1927-sum-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1927-sum-game) |
