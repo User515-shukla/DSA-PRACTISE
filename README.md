@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2784-check-if-array-is-good) |
 | [3477-fruits-into-baskets-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3477-fruits-into-baskets-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0888-fair-candy-swap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2540-minimum-common-value) |
 | [3477-fruits-into-baskets-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0888-fair-candy-swap) |
 | [1796-second-largest-digit-in-a-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1796-second-largest-digit-in-a-string) |
+| [2540-minimum-common-value](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2784-check-if-array-is-good) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
