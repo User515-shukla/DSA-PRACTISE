@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2784-check-if-array-is-good](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2784-check-if-array-is-good) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Simulation
 |  |
 | ------- |
