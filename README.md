@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0263-ugly-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0268-missing-number) |
@@ -431,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0881-boats-to-save-people) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
