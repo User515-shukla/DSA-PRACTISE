@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0242-valid-anagram) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0062-unique-paths) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0089-gray-code) |
 ## Stack
 |  |
@@ -450,4 +453,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
