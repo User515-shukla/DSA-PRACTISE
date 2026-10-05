@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
+| [2396-strictly-palindromic-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3870-count-commas-in-range) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0319-bulb-switcher) |
+| [2396-strictly-palindromic-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2396-strictly-palindromic-number) |
 ## Impartial Game
 |  |
 | ------- |
