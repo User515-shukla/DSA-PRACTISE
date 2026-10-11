@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1796-second-largest-digit-in-a-string) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -473,12 +475,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bucket Sort
 |  |
 | ------- |
