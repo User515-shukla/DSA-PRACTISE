@@ -22,3 +22,5 @@ public:
 // pahle wale bracket ko push kardo stack me 
 // ab dekho jab tak stack empty na ho jaaye aur top par sirf open bracket hai to woh pair match kar jayega so pop kar jayega
 // agar waisa pair nahi hai to closed bracket usme push ho jayega.
+
+// immandari se is question ka logic maine socha 80% tak aisa hi tha jab kuch case ke liye maine jyada hi code likh diya tha jabki isme se kuch part delete karne ke baad code run ho gaye.
