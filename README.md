@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
