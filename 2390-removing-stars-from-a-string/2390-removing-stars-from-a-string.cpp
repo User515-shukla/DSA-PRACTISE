@@ -5,23 +5,17 @@ public:
         // usme dekho agar star aaya hai to top ka element remove kar do 
         // agar star nhi aaya hai to push karte jao 
         
-        stack<char>st;
+        string result="";
         for(int i=0;i<s.size();i++){
           
             if(s[i]=='*'){
-               st.pop();
+               result.pop_back();
             }
             else{
-                st.push(s[i]);
+               result.push_back(s[i]);
             }
            
         }
-        string ans="";
-        while(!st.empty()){
-            ans+=st.top();
-            st.pop();
-        }
-        reverse(ans.begin(),ans.end());
-        return ans;
+        return result; 
     }
 };
