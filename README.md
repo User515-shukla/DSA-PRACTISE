@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1796-second-largest-digit-in-a-string) |
 | [1927-sum-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1927-sum-game) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
