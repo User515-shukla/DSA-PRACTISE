@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -531,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
