@@ -14,3 +14,5 @@ public:
         return false;
     }
 };
+// s.substr(1) matlab index 1 se lekar last tak letter . 
+// jaise abcde agar hai to ans = bcde ho gya iska matlab.
