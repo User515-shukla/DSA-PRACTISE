@@ -4,13 +4,7 @@ public:
         if(s.size()!=goal.size()){
             return false;
         }
-        for(int i=0; i<s.size();i++){
-            char c= s[0];
-            s=s.substr(1)+c;
-            if(s==goal){
-                return true;
-            }
-        }
-        return false;
+        string doubled=s+s;
+        return doubled.find(goal)!=string::npos;
     }
 };
