@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0561-array-partition) |
 | [0746-min-cost-climbing-stairs](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0905-sort-array-by-parity) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -554,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
