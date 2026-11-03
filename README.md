@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0504-base-7) |
+| [0628-maximum-product-of-three-numbers](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/1137-n-th-tribonacci-number) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0905-sort-array-by-parity) |
