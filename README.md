@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0056-merge-intervals) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0169-majority-element) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0088-merge-sorted-array) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/User515-shukla/DSA-PRACTISE/tree/master/0151-reverse-words-in-a-string) |
